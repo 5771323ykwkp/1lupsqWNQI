@@ -61,8 +61,17 @@ public class AuctionController {
 
 
 ## 项目截图
+![screenshot_10](https://github.com/user-attachments/assets/3216d26a-7906-48d1-b3e3-3cc35136e42b)
+![screenshot_09](https://github.com/user-attachments/assets/e1276829-a414-4405-96ee-dbad49fb69f7)
+![screenshot_08](https://github.com/user-attachments/assets/5b45d94e-44c5-4840-a8ed-75673e8658d8)
+![screenshot_07](https://github.com/user-attachments/assets/8af0f79d-2d16-4db5-98a7-f533c3b2e2c2)
+![screenshot_06](https://github.com/user-attachments/assets/2b8358e4-f60b-4057-be76-128549da4bd2)
+![screenshot_05](https://github.com/user-attachments/assets/83a54ef4-cf2b-4827-a775-9a195f938829)
+![screenshot_04](https://github.com/user-attachments/assets/90e3557b-53bd-4fc5-b4e2-ce1285c4c020)
+![screenshot_03](https://github.com/user-attachments/assets/61e41f45-e84f-40c8-84d1-7c2cf271deb5)
+![screenshot_02](https://github.com/user-attachments/assets/1ac2da08-f671-4961-be3c-06523d194557)
+![screenshot_01](https://github.com/user-attachments/assets/5186ab04-b98f-435d-beb8-11437eb0c6f7)
 
-![项目截图](https://i-blog.csdnimg.cn/direct/429f9b4d85284ef39b31d818da6e39b1.png#pic_center)
 
 ---
 
