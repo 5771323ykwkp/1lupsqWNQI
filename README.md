@@ -57,7 +57,7 @@ public class AuctionController {
 
 ## 联系我们
 
-🌟![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/815de6b096804780baa3cd02d7f07a8e.jpeg)
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/815de6b096804780baa3cd02d7f07a8e.jpeg)
 
 ## 项目截图
 
